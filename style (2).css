@@ -1,0 +1,21 @@
+body {
+  background-image: linear-gradient(to right, #FFF2B2);
+  text-align: center;
+  font-family: 'Poppins', serif;
+  font-weight: bold;
+  color: #7FA8D6;
+}
+
+h1 {
+  font-size: 70px;
+  text-shadow: 0 0 7px #FFF7D6;
+}
+h5 {
+  font-size: 20px;
+  text-shadow: 0 0 2px #FFF7D6;
+}
+
+ul {
+  list-style-type: "📌 ";
+  padding-left: 20px;
+}
