@@ -1,0 +1,31 @@
+ @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.tombol{
+    display: inline-block;
+    background-color: #7FA8D6;
+    color: #FFFFFF !important;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+    transition: all 0.3s ease;
+  }
+.tombol:hover {
+    background-color: #FFFFFF;
+    color: #7FA8D6 !important;
+    transform: translateY(0);
+  } 
+  
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  text-shadow: 0 0 7px #FFFFFF;
+  color: #7FA8D6;
+}
+
+h5 {
+  font-family: 'Poppins', serif;
+  font-size: 20px;
+  text-shadow: 0 0 2px #FFFFFF;
+  color: #7FA8D6;
+}
